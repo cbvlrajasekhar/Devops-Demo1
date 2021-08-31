@@ -1,7 +1,7 @@
 Main()
 {
 Function1()
- {
-  //Initial code
- }
+   {
+     //Initial code
+   }
 }

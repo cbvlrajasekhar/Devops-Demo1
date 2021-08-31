@@ -4,7 +4,7 @@ Function1()
  {
   //Initial code
  }
-Function2
+Function2()
  {
   //Developers a changes
  }
